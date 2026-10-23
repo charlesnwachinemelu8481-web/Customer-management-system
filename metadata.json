@@ -1,0 +1,6 @@
+{
+  "name": "ClientBase",
+  "description": "Desktop-first lightweight CRM featuring customer lifecycle tracking, activity feeds, segmented lists, and follow-up reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
